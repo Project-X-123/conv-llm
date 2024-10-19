@@ -1,0 +1,15 @@
+name: conv_agent
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10.15
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - tensorflow
+  - tqdm
+  - pip
+  
